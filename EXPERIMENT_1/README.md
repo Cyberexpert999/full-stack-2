@@ -1,16 +1,18 @@
-# React + Vite
+1. Understand how to create a React project using Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2. Use npm run build for React project into a final production-ready website
 
-Currently, two official plugins are available:
+3. Set up and run a React Single Page Application (SPA) in a local environment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4. Use npm and terminal commands to start and stop a development server
 
-## React Compiler
+5. Understand the basic folder structure of a React + Vite project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+6. Create and connect multiple pages using React Router
 
-## Expanding the ESLint configuration
+7. Build a Single Page Application without page reload
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+8. Import and use components, CSS, and assets in React
+
+9. Fix common errors and understand how React project runs
+
