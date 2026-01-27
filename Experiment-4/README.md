@@ -21,6 +21,6 @@
 10. Develop a real working UI demonstrating three types of state management in one project.
 
 
-## Output Screenshot
+## Final view Screenshot
 
 ![screenshot of final view](./image/output.png)
