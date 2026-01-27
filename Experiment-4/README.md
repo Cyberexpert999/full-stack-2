@@ -23,4 +23,4 @@
 
 ## Output Screenshot
 
-![screenshot of final view](./Experiment-4/image/output.png)
+![screenshot of final view](./image/output.png)
