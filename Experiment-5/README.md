@@ -10,7 +10,7 @@
 8. Analyze performance with Lighthouse
 
 
-## Images 
+##  Live view Images 
  ![alt text](public/images/output/1.png)
  ![alt text](public/images/output/2.png)
  ![ ](public/images/output/3.png)
