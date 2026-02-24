@@ -6,7 +6,7 @@ This project demonstrates how to build a modular backend server using REST princ
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This experiment demonstrates:
 
@@ -20,7 +20,7 @@ This experiment demonstrates:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3.x  
 - Flask  
@@ -31,8 +31,9 @@ This experiment demonstrates:
 
 ---
 
-## 📁 Project Structure
-</> Bash
+##  Project Structure
+
+```bash
 rest-api-lab/
 │
 ├── app.py                     # Flask App Factory
@@ -43,25 +44,33 @@ rest-api-lab/
 │
 └── middleware/
     └── logger.py              # Request Logging Middleware
+```
 
 ---
 
-## 🚀 Installation & Running the Project
+##  Installation & Running the Project
 
-### 1️⃣ Install Dependencies
-</> Bash
+###  Install Dependencies
+
+```bash
 pip install flask flask-cors gunicorn
+```
 
-### 2️⃣ Run the Application
-</> Bash
+###  Run the Application
+
+```bash
 python run.py
+```
 
 Server runs at:
+
+```
 http://localhost:5000
+```
 
 ---
 
-## 🔗 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|------------|
@@ -72,8 +81,9 @@ http://localhost:5000
 | PUT | `/students/<id>` | Update student |
 | DELETE | `/students/<id>` | Delete student |
 
+---
 
-## 🧪 Testing Using Postman
+##  Testing Using Postman
 
 1. Open Postman  
 2. Select method (GET/POST/PUT/DELETE)  
@@ -83,7 +93,7 @@ http://localhost:5000
 
 ---
 
-## 🌐 Deployment on Render
+##  Deployment on Render
 
 1. Push project to GitHub  
 2. Go to Render.com  
@@ -91,11 +101,10 @@ http://localhost:5000
 4. Connect repository  
 5. Start command:
 
-gunicorn run:app
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 - Understand Flask app factory pattern  
 - Implement CRUD APIs  
@@ -103,4 +112,6 @@ gunicorn run:app
 - Handle JSON requests/responses  
 - Test APIs using Postman  
 - Deploy Flask app to cloud  
+
+---
 
