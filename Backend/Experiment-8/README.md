@@ -32,7 +32,7 @@ This experiment demonstrates:
 ---
 
 ## 📁 Project Structure
-
+</> Bash
 rest-api-lab/
 │
 ├── app.py                     # Flask App Factory
@@ -49,11 +49,11 @@ rest-api-lab/
 ## 🚀 Installation & Running the Project
 
 ### 1️⃣ Install Dependencies
-
+</> Bash
 pip install flask flask-cors gunicorn
 
 ### 2️⃣ Run the Application
-
+</> Bash
 python run.py
 
 Server runs at:
