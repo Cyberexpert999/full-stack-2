@@ -17,4 +17,4 @@ app = create_app()
 
 @app.route("/")
 def home():
-    return {"message": "Backend Server is running"}
+    return {"message": " Customer Server is running"}

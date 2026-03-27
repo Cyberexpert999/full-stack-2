@@ -1,0 +1,16 @@
+{
+  "name": "experiment-8",
+  "version": "1.0.0",
+  "description": "A Flask-based REST API for performing CRUD operations on student data using in-memory storage.  \r This project demonstrates how to build a modular backend server using REST principles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
