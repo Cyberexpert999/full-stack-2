@@ -14,7 +14,7 @@ Render Link: https://two3bis70083-experiment-13-02b0.onrender.com/
 
 ### 1. Server/DB Connection Running
 
-![alt text](screnshorts/1.png)
+![alt text](<screnshorts/run server.png>)
 
 ### 2. Read User
 ![alt text](screnshorts/3.png)
