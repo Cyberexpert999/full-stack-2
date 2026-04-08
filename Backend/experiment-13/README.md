@@ -16,10 +16,10 @@ Render Link: https://two3bis70083-experiment-13-02b0.onrender.com/
 
 ![alt text](screnshorts/1.png)
 
-### 2. Create User
+### 2. Read User
 ![alt text](screnshorts/3.png)
 
-### 3. Read User
+### 3. Create User
 ![alt text](screnshorts/4.png)
 
 ### 4. Update User
