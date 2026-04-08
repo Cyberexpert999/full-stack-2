@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: student-api
+    runtime: python
+    repo: https://github.com/Cyberexpert999/full-stack-2
+    branch: main
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+    plan: free

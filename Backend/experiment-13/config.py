@@ -1,7 +1,9 @@
-# Database configuration
+import os
+
+# Database configuration - works for both local and Render
 DB_CONFIG = {
-    'host': 'localhost',
-    'user': 'root',  # Change to your MySQL username
-    'password': 'your_password',  # Change to your MySQL password
-    'database': 'student_db'
+    'host': os.environ.get('DB_HOST', 'localhost'),
+    'user': os.environ.get('DB_USER', 'root'),
+    'password': os.environ.get('DB_PASSWORD', ''),
+    'database': os.environ.get('DB_NAME', 'student_db')
 }
